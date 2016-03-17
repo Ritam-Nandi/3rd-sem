@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1449206609 source:e:\address book\main.c
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+
